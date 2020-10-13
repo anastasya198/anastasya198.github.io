@@ -1,0 +1,12 @@
+/*selectore {
+	property: value;
+
+}*/
+ h4 {
+color: white; }
+body, html{ background: url(https://scontent.ftlv1-2.fna.fbcdn.net/v/t1.0-9/119892205_3618966498122549_6255021495582789814_n.jpg?_nc_cat=106&_nc_sid=0debeb&_nc_ohc=S-6cZeZnbk8AX_8_eAE&_nc_ht=scontent.ftlv1-2.fna&oh=7d951dfdffd34123b92d0808d8665607&oe=5F9C05C4) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
